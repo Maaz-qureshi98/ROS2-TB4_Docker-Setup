@@ -1,6 +1,5 @@
-# UWBot - University of Waterloo Turtlebot4
-This repo helps to operate the Turtlebot4 fleet. If any issue arrises, please
-contact us at robohub@uwaterloo.ca .
+# UWBot - Turtlebot4 of UWaterloo
+This repo helps to operate the Turtlebot4 fleet with ROS2 setup
 
 ## How can you work with the robot?
 * Using a [web interface](#Web-interface) (Jupyter Notebook).
