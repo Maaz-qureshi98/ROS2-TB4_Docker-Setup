@@ -61,6 +61,9 @@ In particular these environment variables are set
 ```
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 export FASTRTPS_DEFAULT_PROFILES_FILE=$HOME/.fastdds.xml
+
+if topics not visible in the docker container ssh: ros2 daemon stop
+ros2 topic list
 ```
 where the file `.fastdds.xml` is copied from [`configs/.fastdds.xml`](configs/.fastdds.xml).
 into the home directory.
