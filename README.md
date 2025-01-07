@@ -1,5 +1,5 @@
 # UWBot - Turtlebot4 of UWaterloo
-This repo helps to operate the Turtlebot4 fleet with ROS2 setup
+This repo is to operate the Turtlebot4 fleet with ROS2 setup. Used for my work in ROBOHUB Lab.
 
 ## How can you work with the robot?
 * Using a [web interface](#Web-interface) (Jupyter Notebook).
